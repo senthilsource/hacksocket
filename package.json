@@ -2,7 +2,7 @@
   "name": "faceregapp",
   "version": "1.0.0",
   "description": "App to recognize face using kairos",
-  "main": "socketserver.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
