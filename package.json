@@ -1,0 +1,26 @@
+{
+  "name": "faceregapp",
+  "version": "1.0.0",
+  "description": "App to recognize face using kairos",
+  "main": "socketserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kairos"
+  ],
+  "author": "senthilkumar",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^6.0.0"
+  },
+  "devDependencies": {
+    "node-cmake": "^2.5.1",
+    "browser-sync": "2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.9.4",
+    "gulp-header": "2.0.5",
+    "gulp-rename": "1.3.0",
+    "gulp-sass": "4.0.1"
+  }
+}
