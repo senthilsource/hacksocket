@@ -2,7 +2,7 @@ var http = require('http'),
 WebSocket = require('ws');
 var {spawn} = require("child_process");
 
-var port = process.env.PORT || 3001;
+var port = process.env.PORT || 3002;
 
 var server = http.createServer( function(request, response) {
 
